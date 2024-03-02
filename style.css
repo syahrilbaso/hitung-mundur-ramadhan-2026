@@ -22,11 +22,11 @@ h2 {
     align-items: center;
 }
 h2 span{
-    color: green;
+    color: rgb(8, 245, 8);
 }
 .year{
     font-size: 4rem;
-    color: crimson;
+    color: rgb(25, 247, 17);
     font-weight: bold;
 }
 
@@ -58,7 +58,7 @@ h2 span{
     line-height: 35px;
     letter-spacing: 1px;
     width: 100%;
-    background: red;
+    background: rgb(30, 218, 13);
     left: 0;
 }
 
