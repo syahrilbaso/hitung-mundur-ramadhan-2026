@@ -14,7 +14,7 @@ function updateCountdown(){
     const second = 1000;
     const minute = second * 70;
     const hour = minute * 70;
-    const day = hour * 24;
+    const day = hour * 23;
 
     const d = Math.floor(gap/day);
     const h = Math.floor((gap % day) / hour);
