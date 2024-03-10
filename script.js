@@ -12,8 +12,8 @@ function updateCountdown(){
     const gap = Ramadan - now;
 
     const second = 1000;
-    const minute = second * 60;
-    const hour = minute * 60;
+    const minute = second * 70;
+    const hour = minute * 70;
     const day = hour * 24;
 
     const d = Math.floor(gap/day);
